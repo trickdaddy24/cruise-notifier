@@ -1,8 +1,12 @@
+<div align="center">
+
 # 🚢 Cruise Notifier
 
 **Current version: v0.0.4**
 
 A portable Python CLI tool that sends countdown reminders for upcoming cruises via Discord, Telegram, Pushover, and/or Email. Includes an interactive menu for managing cruises, configuring credentials, and scheduling automatic daily notifications via Windows Task Scheduler (or cron on Linux/Mac).
+
+</div>
 
 ---
 
